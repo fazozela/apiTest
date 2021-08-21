@@ -7,7 +7,11 @@
     },
     {
       "id": 2,
-      "nombre": "nicolas"
+      "nombre": "Nicolas"
+    },
+    {
+      "id": 3,
+      "nombre": "Marina"
     }
   ]
 }
